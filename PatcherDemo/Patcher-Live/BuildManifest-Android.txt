@@ -1,0 +1,5 @@
+$NUM_ENTRIES = 3
+$BUILD_ID = Patcher-Live
+pakchunk1001-Android_ASTC.pak	15200245	ver001	2001	/Android/pakchunk1001-Android_ASTC.pak
+pakchunk1002-Android_ASTC.pak	5227588	ver001	2002	/Android/pakchunk1002-Android_ASTC.pak
+pakchunk10001-Android_ASTC.pak	22047889	ver001	2003	/Android/pakchunk10001-Android_ASTC.pak

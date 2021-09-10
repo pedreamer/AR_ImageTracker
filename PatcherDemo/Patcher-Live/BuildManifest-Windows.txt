@@ -1,4 +1,0 @@
-$NUM_ENTRIES = 2
-$BUILD_ID = Patcher-Live
-pakchunk1001-WindowsNoEditor.pak	17882093	ver 	1001	/Windows/pakchunk1001-WindowsNoEditor.pak
-pakchunk1002-WindowsNoEditor.pak	5622940		ver	1002	/Windows/pakchunk1002-WindowsNoEditor.pak

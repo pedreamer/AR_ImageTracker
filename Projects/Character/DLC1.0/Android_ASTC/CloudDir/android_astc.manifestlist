@@ -1,0 +1,14 @@
+{
+	"ClientVersion": "DLC1.0",
+	"BuildUrl": "DLC1.0/Android_ASTC",
+	"files": [
+		{
+			"filename": "PatcherDemo_PatcherDemoDLC1.0.manifest",
+			"uniqueFilename": "PatcherDemo_PatcherDemoDLC1.0.manifest",
+			"length": 3937,
+			"URL": "PatcherDemo_PatcherDemoDLC1.0.manifest",
+			"hash": "487E407A29E6BD695AAC0BBEC7EC3EDB6CD19A0E",
+			"hash256": "35351A6774BB0A21AA98C3D966C5D604344515284FA483037B934F95AFDBB308"
+		}
+	]
+}
